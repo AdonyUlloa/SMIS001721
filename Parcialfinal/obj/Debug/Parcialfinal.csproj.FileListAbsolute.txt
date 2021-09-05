@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\bin\Debug\Parcialfinal.pdb
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\obj\Debug\Parcialfinal.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\obj\Debug\Parcialfinal.pdb
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\obj\Debug\Parcialfinal.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\bin\Debug\Parcialfinal.dll
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Parcialfinal\obj\Debug\Parcialfinal.dll

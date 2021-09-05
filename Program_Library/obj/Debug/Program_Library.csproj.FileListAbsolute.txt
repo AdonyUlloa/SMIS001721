@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Program_Library.exe.config
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Program_Library.exe
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Program_Library.pdb
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.exe
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.pdb
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Parcialfinal.dll
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Parcialfinal.pdb
+C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.csproj.CopyComplete
