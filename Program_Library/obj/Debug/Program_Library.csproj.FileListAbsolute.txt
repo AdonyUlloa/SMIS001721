@@ -8,3 +8,13 @@ C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\
 C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Parcialfinal.dll
 C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\bin\Debug\Parcialfinal.pdb
 C:\Users\PC\Desktop\Parcial computo 1\libraryRegister\Program_Library\obj\Debug\Program_Library.csproj.CopyComplete
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\bin\Debug\Program_Library.exe.config
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\bin\Debug\Program_Library.exe
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\bin\Debug\Program_Library.pdb
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\bin\Debug\Parcialfinal.dll
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\bin\Debug\Parcialfinal.pdb
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\obj\Debug\Program_Library.csproj.AssemblyReference.cache
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\obj\Debug\Program_Library.csproj.CoreCompileInputs.cache
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\obj\Debug\Program_Library.csproj.CopyComplete
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\obj\Debug\Program_Library.exe
+C:\Users\Moises Martinez\Desktop\Parcial1\SMIS001721\Program_Library\obj\Debug\Program_Library.pdb
